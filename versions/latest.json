@@ -1,10 +1,12 @@
 {
-	"name": "419",
-	"description": "Jenkins build 419",
+	"name": "1.8",
+	"description": "Backport of fixes from 1.8.3",
+	"information": "Last build of Spigot 1.8.0. To update please see http://www.spigotmc.org/",
+	"warning": "***** Please ensure your BuildTools is at least #35 *****",
 	"refs": {
-		"BuildData": "264466a4bebb5aa2b41b66c5009b098a8f2e90dc",
-		"Bukkit": "8d91199e35c782e94c4dd41fdc8140f84e048ef1",
-		"CraftBukkit": "7722428895866b437c1cc88d0c963b1bbb1e5e12",
-		"Spigot": "2ec6f06d354112dea058ff44ee7c713a4a760fba"
+		"BuildData": "6c23e32bdf05c944d55d6d07fef8d81fcb0e11c5",
+		"Bukkit": "31c442bb34cd516be68198cf4fa99df5d3480600",
+		"CraftBukkit": "530a0be17b6a4635a170628d76c1b6b835025cec",
+		"Spigot": "3b0572b9bf4b0e23507a81a846c766bb1deb1de2"
 	}
 }
