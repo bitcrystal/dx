@@ -4,9 +4,9 @@
 	"information": "Last build of Spigot 1.8.0. To update please see http://www.spigotmc.org/",
 	"warning": "***** Please ensure your BuildTools is at least #35 *****",
 	"refs": {
-		"BuildData": "6c23e32bdf05c944d55d6d07fef8d81fcb0e11c5",
-		"Bukkit": "31c442bb34cd516be68198cf4fa99df5d3480600",
-		"CraftBukkit": "530a0be17b6a4635a170628d76c1b6b835025cec",
-		"Spigot": "3b0572b9bf4b0e23507a81a846c766bb1deb1de2"
+		"BuildData": "0630ea462a82fdbd93018de7d5ec5e9d3b3c732b",
+		"Bukkit": "1d2509b99fb10b3bd6f597e63805f85b49d5a055",
+		"CraftBukkit": "7019900e276b7c9f6e940debf8529094c7f4da0c",
+		"Spigot": "550ebace4b43adc73854d7d5976e1343eba6fb98"
 	}
 }
